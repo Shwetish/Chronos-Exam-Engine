@@ -1,0 +1,8 @@
+# Exclude API Keys & Secrets
+.env
+*.env
+
+# Exclude Database & Python Cache
+capstone.db
+__pycache__/
+*.pyc
